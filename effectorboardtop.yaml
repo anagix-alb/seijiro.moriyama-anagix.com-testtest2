@@ -2,8 +2,4 @@
 grid_size: 0.0625
 cells:
   IshibeESD: circuits
-  cap: symbols
-  res: symbols
-  sw: symbols
-  voltage: symbols
 thick_wires: 
